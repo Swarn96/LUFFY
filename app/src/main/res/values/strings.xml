@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LUFFY</string>
+    <string name="profile_name">Luffy</string>
+    <string name="profile_decp"> I am a voice controlled mobile virtual assistant who can open any popular app on your mobile, search for an url on your mobile browser, locate different places on the google map, smartly reply to small talks, call a person on your contacts list, dig out the contact of a person from your contacts list and a lot of more tasks.
+    </string>
+    <string name="my_profile_name">Swarn Kamal</string>
+    <string name="my_profile_decp">I am an Android Developer</string>
+</resources>
