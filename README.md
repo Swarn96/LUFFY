@@ -1,10 +1,14 @@
 # LUFFY
  **LUFFY** is a voice controlled mobile virtual assistant app which can open any popular app on your mobile, search for a url on your mobile browser, locate different places on the google map, smartly reply to small talks, call a person on your contact list, dig out the contact of a person from your contact list and a lot more of a task. Even you can command it through written commands. Google API(s) such as Speech to Text and Text to Speech and Google Map API has been used in this project.
 
+
 # Live Demo
 Luffy virtual assistant [here](https://appetize.io/app/r016maacyw6n0hnhg3ce5n86dg?device=nexus5&osVersion=8.1&scale=75)
 
-# Task used
+# Download
+===>[:iphone:](https://drive.google.com/file/d/104m0GECAPjdXVC5xu-dllC-A1ZCf6rh4/view?usp=sharing)
+
+# API(s) used
 * Goggle API speech to text
 * Google API text to speech
 * Google Map API
