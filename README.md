@@ -10,9 +10,6 @@ Luffy virtual assistant [here](https://appetize.io/app/r016maacyw6n0hnhg3ce5n86d
 * Google Map API
 
 # Screenshots
+<img src="https://user-images.githubusercontent.com/84777521/157660822-9bf350cc-9269-4c1b-a07e-fffb73c99f02.jpg" width="400" height="700"/> <img src="https://user-images.githubusercontent.com/84777521/157660874-2b9ba139-aa56-43b5-82da-2c98bbfe7685.jpg" width="400" height="700"/><img src="https://user-images.githubusercontent.com/84777521/157660901-660e43bb-a120-4397-8bce-9ca085252a4d.jpg" width="400" height="700" /><img src="https://user-images.githubusercontent.com/84777521/157660927-3fda73b5-ce5a-4966-a9db-d68ecb270331.jpg" width="400" height="700"/><img src="https://user-images.githubusercontent.com/84777521/157660949-a1f8dce6-67e4-488a-b508-248ee656ac57.jpg" width="400" height="700"/>
 
-![1](https://user-images.githubusercontent.com/84777521/157660822-9bf350cc-9269-4c1b-a07e-fffb73c99f02.jpg)
-![2](https://user-images.githubusercontent.com/84777521/157660874-2b9ba139-aa56-43b5-82da-2c98bbfe7685.jpg)
-![3](https://user-images.githubusercontent.com/84777521/157660901-660e43bb-a120-4397-8bce-9ca085252a4d.jpg)
-![4](https://user-images.githubusercontent.com/84777521/157660927-3fda73b5-ce5a-4966-a9db-d68ecb270331.jpg)
-![5](https://user-images.githubusercontent.com/84777521/157660949-a1f8dce6-67e4-488a-b508-248ee656ac57.jpg)
+
